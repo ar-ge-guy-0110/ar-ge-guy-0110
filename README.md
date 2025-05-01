@@ -3,10 +3,10 @@
 
 **Welcome!** I'm a self-disciplined software developer with full of curiosity, who are in love with science and non-stop learning and developing.
 
--- *Contact with me on LinkedIn --> www.linkedin.com/in/m-e-celik
+-- **Contact with me on LinkedIn -->** www.linkedin.com/in/m-e-celik
 
 ## My Tech Gear:
-**PHP, Python, React.JS, Node.JS, Express.JS, Firebase, C#**
+PHP, Python, React.JS, Node.JS, Express.JS, Firebase, C#
 
 ## Developing Now: CorporatePortal(PHP), My Website(HTML,CSS,JS)
 <!--
