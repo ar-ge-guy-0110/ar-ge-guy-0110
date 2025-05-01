@@ -6,7 +6,7 @@ A Software Developer
 
 -- **Contact with me on LinkedIn -->** www.linkedin.com/in/m-e-celik
 
-## My Tech Gear ⚡:
+## My Tech Gears ⚡:
 PHP, Python, React.JS, Node.JS, Express.JS, Firebase, C#
 
 ## Developing Now: 
